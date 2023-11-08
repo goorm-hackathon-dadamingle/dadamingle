@@ -7,21 +7,25 @@
 
 </aside>
 <br/>
+<br/>
 <aside>
 ⭕ boolean값은 접두어 is-를 붙여 카멜케이스로 작성합니다.
 
 </aside>
+<br/>
 <br/>
 <aside>
 💡 이벤트 핸들러 함수는은 접두어 handle-을 붙여 카멜케이스로 작성합니다.
 
 </aside>
 <br/>
+<br/>
 <aside>
 ➡️ 함수 스타일은 화살표 함수로 통일합니다. <br/>
 const Header = () ⇒ {}
 
 </aside>
+<br/>
 <br/>
 <aside>
 🧩 컴포넌트는 폴더명(파스칼케이스)/파일명(파스칼케이스, 폴더명과 동일) <br/>
@@ -30,11 +34,13 @@ const Header = () ⇒ {}
 
 </aside>
 <br/>
+<br/>
 
 <aside>
 ☝ 컴포넌트 제외한 일반 폴더명은 스네이크 케이스 고려 ex) sign_up
 
 </aside>
+<br/>
 <br/>
 <aside>
 📁 폴더 구조(app Router 방식)
@@ -57,6 +63,7 @@ const Header = () ⇒ {}
 ```
 
 </aside>
+<br/>
 <br/>
 
 ### 🎃 사용 스택 및 라이브러리
