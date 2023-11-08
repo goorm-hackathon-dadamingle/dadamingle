@@ -42,9 +42,9 @@ const Header = () ⇒ {}
 </aside>
 <br/>
 <br/>
-<aside>
-	
+
 ### 📁 폴더 구조(app Router 방식)
+<aside>
 
 ```
 - app
