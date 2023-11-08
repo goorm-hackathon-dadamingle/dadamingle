@@ -1,21 +1,21 @@
 # dadamingle
 
-### 코드 컨벤션
+<h2>💡 코드 컨벤션</h2>
 
 <aside>
-🐫 함수명, 변수명은 카멜케이스로 작성합니다.
-
-</aside>
-<br/>
-<br/>
-<aside>
-⭕ boolean값은 접두어 is-를 붙여 카멜케이스로 작성합니다.
+함수명, 변수명은 카멜케이스로 작성합니다.
 
 </aside>
 <br/>
 <br/>
 <aside>
-💡 이벤트 핸들러 함수는은 접두어 handle-을 붙여 카멜케이스로 작성합니다.
+boolean값은 접두어 is-를 붙여 카멜케이스로 작성합니다.
+
+</aside>
+<br/>
+<br/>
+<aside>
+이벤트 핸들러 함수는은 접두어 handle-을 붙여 카멜케이스로 작성합니다.
 
 </aside>
 <br/>
@@ -28,7 +28,7 @@ const Header = () ⇒ {}
 <br/>
 <br/>
 <aside>
-🧩 컴포넌트는 폴더명(파스칼케이스)/파일명(파스칼케이스, 폴더명과 동일) <br/>
+컴포넌트는 폴더명(파스칼케이스)/파일명(파스칼케이스, 폴더명과 동일) <br/>
 - ex) components/Button/Button.tsx <br/>
 - ex) _components/Button/Button.tsx
 
@@ -37,23 +37,112 @@ const Header = () ⇒ {}
 <br/>
 
 <aside>
-☝ 컴포넌트 제외한 일반 폴더명은 스네이크 케이스 고려 ex) sign_up
+컴포넌트 제외한 일반 폴더명은 스네이크 케이스 고려 ex) sign_up
 
 </aside>
 <br/>
+
+<br>
+<h2>팀원</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/stop0ho">
+        <img src="https://avatars.githubusercontent.com/u/68852637?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+     <td>
+      <a href="https://github.com/zivivle">
+        <img src="https://avatars.githubusercontent.com/u/123868471?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="https://github.com/choiminwoo98">
+        <img src="https://avatars.githubusercontent.com/u/61531483?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+  </tr>
+  <tr>
+    <th>
+      정지호
+    </th>
+    <th>
+      지성경
+    </th>
+    <th>
+      최민우
+    </th>
+  </tr>
+  <tr>
+    <th>
+       프론트엔드
+    </th>
+    <th>
+       프론트엔드
+    </th>
+    <th>
+       프론트엔드
+    </th>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="#">
+        <img src="#" width="120px" height="120px"/>
+      </a>  
+    </td>
+     <td>
+      <a href="https://github.com/sbslc2000">
+        <img src="https://avatars.githubusercontent.com/u/60257970?v=4" width="120px" height="120px"/>
+      </a>  
+    </td>
+    <td>
+      <a href="#">
+        <img src="#" width="120px" height="120px"/>
+      </a>  
+    </td>
+     
+  </tr>
+  <tr>
+    <th>
+      남진수
+    </th>
+    <th>
+      서범석
+    </th>
+    <th>
+      황현성
+    </th>
+  </tr>
+  <tr>
+    <th>
+       백엔드
+    </th>
+    <th>
+       백엔드
+    </th>
+    <th>
+       백엔드
+    </th>
+  </tr>
+</table>
+
+
 <br/>
 
-### 📁 폴더 구조(app Router 방식)
+<h2>📁 폴더 구조(app Router 방식)</h2>
+
 <aside>
 
 ```
 - app
-	- api
-		- page_name
-			route.ts : 해당 페이지 api 로직
-	- page_name
-		- _components : 해당 페이지에서 사용 가능한 컴포넌트
-		page_name.types.ts : 해당 페이지에서만 사용하는 타입 정의
+  - api
+    - page_name
+        route.ts : 해당 페이지 api 로직
+    - page_name
+        - _components : 해당 페이지에서 사용 가능한 컴포넌트
+      page_name.types.ts : 해당 페이지에서만 사용하는 타입 정의
 
 - components : 공용 컴포넌트
 - hooks : 공용 훅함수
@@ -82,7 +171,7 @@ react-hook-form + yup
 
 <br/>
 
-### 커밋 컨벤션
+<h2>커밋 컨벤션</h2>
 
 |   Type   | Description                   |
 | :------: | ----------------------------- |
