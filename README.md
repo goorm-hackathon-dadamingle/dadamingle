@@ -1,4 +1,4 @@
-# 🧚🏻 dadamingle
+# dadamingle
 
 ### 코드 컨벤션
 
