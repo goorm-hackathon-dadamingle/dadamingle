@@ -1,4 +1,10 @@
-# dadamingle
+# dadamingle팀
+
+
+<h2>🏫 mingle 프로젝트</h2>
+
+![Group 807](https://github.com/goorm-hackathon-dadamingle/dadamingle/assets/123868471/7d16aa51-40cc-4dd9-99d8-7204a2b05f1b)
+
 
 <h2>💡 코드 컨벤션</h2>
 
