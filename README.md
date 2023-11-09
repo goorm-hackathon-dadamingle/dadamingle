@@ -88,8 +88,8 @@ const Header = () ⇒ {}
   
   <tr>
     <td>
-      <a href="#">
-        <img src="#" width="120px" height="120px"/>
+      <a href="https://github.com/wlstnam">
+        <img src="https://avatars.githubusercontent.com/u/127458907?v=4" width="120px" height="120px"/>
       </a>  
     </td>
      <td>
@@ -98,8 +98,8 @@ const Header = () ⇒ {}
       </a>  
     </td>
     <td>
-      <a href="#">
-        <img src="#" width="120px" height="120px"/>
+      <a href="https://github.com/hstla">
+        <img src="https://avatars.githubusercontent.com/u/83001865?v=4" width="120px" height="120px"/>
       </a>  
     </td>
      
