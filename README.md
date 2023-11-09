@@ -146,8 +146,8 @@ const Header = () ⇒ {}
   - api
     - page_name
         route.ts : 해당 페이지 api 로직
-    - page_name
-        - _components : 해당 페이지에서 사용 가능한 컴포넌트
+  - page_name
+    - _components : 해당 페이지에서 사용 가능한 컴포넌트
       page_name.types.ts : 해당 페이지에서만 사용하는 타입 정의
 
 - components : 공용 컴포넌트
